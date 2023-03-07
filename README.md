@@ -11,7 +11,8 @@ git clone and repo here to find the website
 
 ## Contributing
 
-if you wish t make my website better please clone and push your code
+if you wish t make my website better please clone and push your code it will be well appreciated.
+Thanks
 
 ## License
 
